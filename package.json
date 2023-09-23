@@ -1,0 +1,27 @@
+{
+  "name": "krawtchouk",
+  "version": "1.0.0",
+  "description": "A simple tool for visualizing Krawtchouk's matrices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supxinfy/Krawtchouk-js.git"
+  },
+  "keywords": [
+    "Krawtchouk",
+    "polynomials",
+    "Krawtchouk",
+    "matrix",
+    "MacWilliams",
+    "matrix"
+  ],
+  "author": "Vladislav Shubin, Mark Zakharov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supxinfy/Krawtchouk-js/issues"
+  },
+  "homepage": "https://github.com/supxinfy/Krawtchouk-js#readme"
+}
